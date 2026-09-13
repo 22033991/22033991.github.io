@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "원천 데이터에 공백이 생겼을 때 — 유예 기간을 내부 스냅샷으로 메우기"
-date: 2026-09-10 22:00:00 +0900
+date: 2026-09-11 22:00:00 +0900
 categories: [Backend, Integration]
 tags: [HR System, Organization, Data Migration, Oracle]
 excerpt: "인사시스템이 더 이상 보내지 않는 겸직 정보를, 본직 교체 전 스냅샷과 명시적인 만료 조건으로 유예 기간 동안 유지했다."
