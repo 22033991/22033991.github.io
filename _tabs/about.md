@@ -1,8 +1,16 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: page
+title: About
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Java와 Spring 기반 백엔드 개발에서 마주한 문제와 학습 내용을 정리하는 개발 블로그입니다. 업무 중 노션에 메모해둔 기록을 글로 옮기는 작업을 진행 중이며 문장을 다듬는 과정에서 AI의 첨삭을 받고 있습니다.
+
+어떤 증상이 있었고, 왜 발생했으며, 어떤 기준으로 해결 방법을 선택했는지 기록합니다. 데이터베이스의 동작, 트랜잭션 경계, 외부 시스템 연계처럼 실제 업무에서 판단이 필요한 주제를 중심으로 글을 쌓아갑니다.
+
+고객사 12곳과 자사 제품을 담당하면서 그룹웨어와 전자결재 시스템, 각종 업무 모듈을 만들었고, ERP 및 외부 API 연계, 다법인 조직 데이터 모델링, 데이터 마이그레이션, 인증과 보안 고도화 작업을 해왔습니다.
+
+요즘은 데이터 정합성과 동시성 제어, 트랜잭션 안정성, 반복 업무 자동화에 관심을 두고 있고, Spring Boot 3와 JPA, PostgreSQL을 쓰는 프로젝트와 클라우드 인프라로 기술 스택을 넓히는 중입니다.
+
+최근 업무는 AI 하네스를 통해 진행하고 있다보니, 코드 자체보다는 어떻게 하면 더 나은 아키텍처를 만들 수 있는지도 고민하고 있습니다.
+
+AWS Certified Solutions Architect - Associate, 정보처리기사, SQLD, ADsP, 리눅스마스터 2급 자격증을 보유하고 있습니다.
