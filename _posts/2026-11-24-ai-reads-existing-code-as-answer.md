@@ -3,7 +3,7 @@ layout: post
 title: "[AI와 같이 일하기 위하여] AI는 눈앞의 코드를 정답으로 읽는다"
 date: 2026-11-24 19:30:00 +0900
 categories: [AI 협업]
-tags: [AI와 같이 일하기 위하여, claude-code, harness, ai, database-design]
+tags: [AI와 같이 일하기 위하여, Claude Code, harness, ai, database-design]
 excerpt: 근태 모듈이 있는 솔루션에서 새 근태 기능을 만들 때, AI가 자꾸 기존 테이블을 참조했던 일
 ---
 
